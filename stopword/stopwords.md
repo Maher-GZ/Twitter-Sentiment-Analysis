@@ -1,2 +1,0 @@
- Stop words are commonly used in Text Mining and Natural Language Processing (NLP) to eliminate words that are so widely used that they carry very little useful information. Such as (the-a-an- ......)
- ![alt text](download.png)

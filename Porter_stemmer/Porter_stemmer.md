@@ -1,2 +1,0 @@
-  Stemming is the process of reducing words to their base or root form, often by removing common prefixes and suffixes. For example, the Porter stemmer reduces the words "running," "runs," and "ran" to the base form "run."
-  ![alt text](0_-yUy-dAKeTbPRQuk.png) [alt text](Porter_stemmer.md)
