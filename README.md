@@ -1,4 +1,4 @@
-# Twitter-Sentiment-Analysis
+# Twitter-Sentiment-Analysis with 3 different models
 Welcome to the Twitter Sentiment Analysis project! This repository contains code and resources for classifying sentiment in Twitter data into three categories: Positive, Negative, and Neutral. The classification is achieved using different deep learning models, including a simple Dense layer, CNN (Convolutional Neural Network), and LSTM (Long Short-Term Memory), specifically Bidirectional LSTM.
 ## Table of Contents
 
